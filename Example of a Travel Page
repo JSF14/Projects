@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Travel Agency Page</title>
+  <meta name="description" content="Explore exciting destinations and plan your trip with our travel agency.">
+</head>
+
+<body>
+  <h1>Destinations for the Next Summer Vacation in 2025</h1>
+  <p>Discover incredible travel opportunities around the world, from cultural wonders to outdoor adventures, all designed to make your summer unforgettable.</p>
+
+  <h2>Packages</h2>
+  <p>We offer a range of travel packages tailored to your preferences and budget.</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+
+  <h2>Top Itineraries</h2>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseum in Rome">
+    </a>
+    <figcaption>Visiting the Colosseum in Rome</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The Alps">
+    </a>
+    <figcaption>Hiking in the Swiss Alps</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Remote surfing spots by the sea">
+    </a>
+    <figcaption>Sailing to Remote Surfing Spots</figcaption>
+  </figure>
+</body>
+
+</html>
