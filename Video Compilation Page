@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+ <title>Video Compilation Page</title>
+  
+</head>
+<body>
+  <main>
+    <h1>Inspiring Tech Innovations</h1>
+    <p>Explore this curated compilation of videos showcasing breakthrough technology and innovation that's shaping our future.</p>
+
+    <section>
+      <h2>The Rise of Artificial Intelligence</h2>
+      <p>Discover how AI is transforming industries, solving complex problems, and redefining human-computer interaction.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/2ePf9rue1Ao" 
+        title="AI Transformation" 
+        width="560" 
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>Revolutionizing Healthcare with Tech</h2>
+      <p>From robotic surgery to real-time diagnostics, technology is revolutionizing patient care and medical research.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/kHySM1YBQvA" 
+        title="Healthcare Technology Innovations" 
+        width="560" 
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>Space Tech and the New Frontier</h2>
+      <p>Space exploration is entering a new era with private companies and advanced robotics taking us deeper into the cosmos.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/tmNzwg5D_nw" 
+        title="Space Technology Breakthroughs" 
+        width="560" 
+        height="315">
+      </iframe>
+    </section>
+  </main>
+</body>
+</html>
+
